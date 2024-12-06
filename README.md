@@ -11,7 +11,7 @@
 
 ```
    git clone https://github.com/EgorZybin/Complete_forms;
-   cd my_flask_app
+   cd Complete_forms
 ```
 
 3. Установите зависимости:
